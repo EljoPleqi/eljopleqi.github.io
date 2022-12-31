@@ -11,10 +11,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Eljo Pleqi # author name
   bio: >- # tell to the world
-    I am a Web Developer and UI/UX Designer,\n
-    Graduated from Le Wagon in Cologne batch 890 for web development in Le Wagon bootcamp.\n
-    After working in marketing and advertising for 7 years and diving deep into digital marketing, leading tech and creative teams \n I realised it was time for a change.  
-    meet me at <a href="https://www.linkedin.com/in/eljopleqi/" target="_blank" rel="noopener">LinkedIn</a>, 
+    I am a Web Developer and UI/UX Designer,  
+    Graduated from Le Wagon in Cologne for web development batch 890.<br>
+    After working in marketing and advertising for 7 years and diving deep into digital marketing, leading tech and creative teams,  
+    I realised it was time for a change.  <br>
+    Currently based in Tirana, Albania, meet me online at <a href="https://www.linkedin.com/in/eljopleqi/" target="_blank" rel="noopener">LinkedIn</a>, 
     <a href="https://twitter.com/Eljo_Pleqi" target="_blank" rel="noopener">Twitter</a>
     and <a href="https://github.com/EljoPleqi" target="_blank" rel="noopener">Github</a>.
 
@@ -27,7 +28,7 @@ author:
 # URL settings
 url: https://eljopleqi.github.io/ #
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-85YNQL5051
 fb_appid:
 
 # Collection setting
