@@ -30,7 +30,6 @@ author:
 
 # URL settings
 url: https://eljopleqi.github.io/ #
-baseurl: eljopleqi.github.io
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
