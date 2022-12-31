@@ -208,9 +208,9 @@
   }
 
   .author-bio {
-    margin: 0 auto;
+    margin: 2rem auto 0 auto;
     opacity: 0.9;
-    max-width: 393px;
+    max-width: 60rem;
     line-height: 1.688;
   }
 }
@@ -325,7 +325,6 @@
     color: $text-link-blue-active;
   }
 }
-
 
 .search-article {
   position: relative;
