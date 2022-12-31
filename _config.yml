@@ -1,11 +1,10 @@
 # Site settings
 title: Eljo Pleqi # site title
 description: >- # site description
-I am a Web Developer and UI/UX Designer
-Graduated from Le Wagon in Cologne batch #890 for web development in Le Wagon bootcamp.
-After working in marketing and advertising for 7 years and diving deep into digital marketing, leading tech and creative teams I realised it was time for a change. 
-
-I took the decision to follow my passion for web development and tech in general as wanted a more hands on role in terms of building software.
+  I am a Web Developer and UI/UX Designer
+  Graduated from Le Wagon in Cologne batch 890 for web development in Le Wagon bootcamp.
+  After working in marketing and advertising for 7 years and diving deep into digital marketing, leading tech and creative teams I realised it was time for a change. 
+  I took the decision to follow my passion for web development and tech in general as wanted a more hands on role in terms of building software.
 lang: en-US # default lang
 timezone: Europe/Berlin # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
